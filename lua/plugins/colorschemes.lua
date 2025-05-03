@@ -9,13 +9,19 @@ return {
   { "dasupradyumna/midnight.nvim" },
   { "joosepAlviste/palenightfall.nvim" },
   { "AstroNvim/astrotheme" },
+  { 
+	  "alligator/accent.vim",
+	  accent_colour = 'orange',
+  },
+  { "ntk148v/komau.vim" },
+  { "zenbones-theme/zenbones.nvim" },
 
 
   -- Configure LazyVim to load gruvbox
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "tender",
+      colorscheme = "accent",
     },
   }
 }

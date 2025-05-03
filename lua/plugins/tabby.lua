@@ -12,11 +12,11 @@ return{
 	config=function()
 		local theme = {
 			fill = 'TabLineFill',
-			head = { fg = '#75beff', bg = '#1c1e26', style = 'italic' },
-			current_tab = { fg = '#1c1e26', bg = '#75beff', style = 'italic' },
+			head = { fg = '#ffcc66', bg = '#1c1e26', style = 'italic' },
+			current_tab = { fg = '#1c1e26', bg = '#ffcc66', style = 'italic' },
 			tab = { fg = '#c5cdd9', bg = '#1c1e26', style = 'italic' },
-			win = { fg = '#1c1e26', bg = '#75beff', style = 'italic' },
-			tail = { fg = '#75beff', bg = '#1c1e26', style = 'italic' },
+			win = { fg = '#1c1e26', bg = '#ffcc66', style = 'italic' },
+			tail = { fg = '#ffcc66', bg = '#1c1e26', style = 'italic' },
 		}
 		require('tabby').setup({
 			preset = 'active_wins_at_tail',
