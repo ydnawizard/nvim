@@ -2,6 +2,7 @@
   "LazyVim": { "branch": "main", "commit": "ec5981dfb1222c3bf246d9bcaa713d5cfa486fbd" },
   "accent.vim": { "branch": "master", "commit": "54e0b255cb2c93555014197c8adc59d631c25696" },
   "astrotheme": { "branch": "main", "commit": "f12dcf64b1f9a05839c3ac2146f550f43bae9dab" },
+  "atlas.vim": { "branch": "master", "commit": "f254465adbcae565d9cf8c987f5a797c1f9cf922" },
   "cyberdream.nvim": { "branch": "main", "commit": "4aa7c64b0b18a542d6587632efa93c3bea469979" },
   "gruvbox.nvim": { "branch": "main", "commit": "046e162b4b7998d3eb2cdb7f8d6811b7d8ceb303" },
   "kanagawa.nvim": { "branch": "master", "commit": "cc3b68b08e6a0cb6e6bf9944932940091e49bb83" },

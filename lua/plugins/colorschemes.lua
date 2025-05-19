@@ -15,13 +15,13 @@ return {
   },
   { "ntk148v/komau.vim" },
   { "zenbones-theme/zenbones.nvim" },
-
+  { 'huyvohcmc/atlas.vim' },
 
   -- Configure LazyVim to load gruvbox
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "accent",
+      colorscheme = "komau",
     },
   }
 }
