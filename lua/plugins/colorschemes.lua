@@ -16,9 +16,9 @@ return {
   { "ntk148v/komau.vim" },
   { "zenbones-theme/zenbones.nvim" },
   { 'huyvohcmc/atlas.vim' },
-
-  -- Configure LazyVim to load gruvbox
-  {
+  { 'aliqyan-21/darkvoid.nvim' },
+  { 'slugbyte/lackluster.nvim' },
+   {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = "komau",
